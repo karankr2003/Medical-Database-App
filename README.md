@@ -1,5 +1,5 @@
 
-Medical Database App	June 2023
+**Medical Database App**
 
 •	Concocted and implemented a software application using Android Studio, employing Java, XML, and SQLlite.
 
